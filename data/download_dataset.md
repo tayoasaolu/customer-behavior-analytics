@@ -34,12 +34,6 @@ To use with the Jupyter notebook:
 
 If you encounter issues with data types or columns, refer to the Kaggle dataset description for the full schema. For alternatives, consider the [E-commerce Customer Churn Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction).
 ```
-
-### **Instructions to Add to Your Repo**
-1. **On GitHub**: Go to your `customer-behavior-analytics` repo. Click "Add file" > "Create new file". In the file name field, type `data/download_dataset.md` (this will automatically create the `data/` folder if it doesn't exist). Paste the content above into the editor. Commit with a message like "Add data/download_dataset.md with dataset download instructions."
-
-   - Alternatively, locally: Create a folder named `data` in your project directory, then create a file inside it named `download_dataset.md`. Paste the content, then `git add data/download_dataset.md`, `git commit -m "Add data/download_dataset.md"`, and `git push`.
-
 2. **Why this file?** It ensures the project is reproducible without bloating the repo. Users can easily get the data and jump into the analysis.
 
 Once you've added this, reply with "next file" (or any questions/feedback), and I'll generate the next one: **`notebooks/analysis.ipynb`** (the Jupyter Notebook file with the core Python code for clustering, regression, and visualizations). Note: Since .ipynb is a JSON-based file, I'll provide it as JSON content that you can paste into a new .ipynb file (or use Jupyter to create it). 🚀
