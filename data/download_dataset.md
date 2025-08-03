@@ -34,6 +34,3 @@ To use with the Jupyter notebook:
 
 If you encounter issues with data types or columns, refer to the Kaggle dataset description for the full schema. For alternatives, consider the [E-commerce Customer Churn Dataset](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction).
 ```
-2. **Why this file?** It ensures the project is reproducible without bloating the repo. Users can easily get the data and jump into the analysis.
-
-Once you've added this, reply with "next file" (or any questions/feedback), and I'll generate the next one: **`notebooks/analysis.ipynb`** (the Jupyter Notebook file with the core Python code for clustering, regression, and visualizations). Note: Since .ipynb is a JSON-based file, I'll provide it as JSON content that you can paste into a new .ipynb file (or use Jupyter to create it). 🚀
